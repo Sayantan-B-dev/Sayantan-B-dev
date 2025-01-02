@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayantan Bharati</h1>
 <h3 align="center">A dedicated developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantan-b-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sayantan-b-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayantan-b-dev" alt="sayantan-b-dev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sayantanb_1337" target="blank"><img src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge" alt="sayantanb_1337" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development.**
