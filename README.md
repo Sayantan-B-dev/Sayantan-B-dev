@@ -2,7 +2,7 @@
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #555;">A Dedicated Developer from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/sayantanb_1337" target="blank">
+  <a href="https://twitter.com/sayantanb_1337" target="blank" >
     <img src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge" alt="sayantanb_1337" />
   </a>
 </p>
