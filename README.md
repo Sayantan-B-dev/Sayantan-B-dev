@@ -1,4 +1,3 @@
-
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Sayantan Bharati</h1>
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #555;">A Dedicated Developer from India</h3>
 
