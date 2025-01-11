@@ -13,16 +13,6 @@
 - 🌱 **Currently Learning:** Web Development.  
 - 🤝 **Open To:** Connect with great individuals.
 - 👯 **Looking For:** Opportunities to contribute to exciting projects.  
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayantan-B-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayantan-B-dev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
