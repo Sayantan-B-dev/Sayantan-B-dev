@@ -8,11 +8,17 @@
 </p>
 
 ---
-
 ### About Me:
 - 🌱 **Currently Learning:** Web Development.  
 - 🤝 **Open To:** Connect with great individuals.
-- 👯 **Looking For:** Opportunities to contribute to exciting projects.  
+- 👯 **Looking For:** Opportunities to contribute to exciting projects.
+---
+Categorization of repositories:
+Lv1_: Front end Web_Dev (learning/practice projects)
+Lv2_: Full stack Web_Dev (learning/practice projects)
+Lv3_: Getiiing into S******* ***********
+Lv4_: A* *** M* *****
+Lv5_: Cool, creative, unique, and advanced projects
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
