@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">Hi 👋, I'm Sayantan Bharati</h1>
-<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #555;">A Dedicated Developer from India</h3>
+<h3 align="center" style="font-family: 'Verdana', sans-serif; color: #555;">A Committed Developer Based in India</h3>
 
 <p align="center">
   <a href="https://twitter.com/sayantanb_1337" target="blank" >
@@ -9,16 +9,16 @@
 
 ---
 ### About Me:
-- 🌱 **Currently Learning:** Web Development.  
+- 🌱 **Currently Skills:** Web Development.  
 - 🤝 **Open To:** Connect with great individuals.
 - 👯 **Looking For:** Opportunities to contribute to exciting projects.
 ---
 ### Categorization of repositories:
-Lv1_: Front end Web_Dev (learning/practice projects)
-Lv2_: Full stack Web_Dev (learning/practice projects)
-Lv3_: Getiiing into S******* ***********
-Lv4_: A* *** M* *****
-Lv5_: Cool, creative, unique, and advanced projects
+- 🌐**Lv1_**: Front end Web_Dev _(learning/practice projects)_.
+- 💻**Lv2_**: Full stack Web_Dev _(learning/practice projects)_.
+- 🚀**Lv3_**: ________ __________ _(learning/practice projects)_.
+- 🤖**Lv4_**: __ ___ __ stuff _(learning/practice projects)_.
+- ✨**Lv5_**: Cool, creative, unique, and advanced projects _(Creative projects)_.
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
