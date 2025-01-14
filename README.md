@@ -14,11 +14,12 @@
 - 👯 **Looking For:** Opportunities to contribute to exciting projects.
 ---
 ### Categorization of repositories:
-- 🌐**Lv1_**: Front end Web_Dev _(learning/practice projects)_.
-- 💻**Lv2_**: Full stack Web_Dev _(learning/practice projects)_.
-- 🚀**Lv3_**: ________ __________ _(learning/practice projects)_.
-- 🤖**Lv4_**: __ ___ __ stuff _(learning/practice projects)_.
-- ✨**Lv5_**: Cool, creative, unique, and advanced projects _(Creative projects)_.
+- 🌐**Lv1_**: Basic Frontend WebDev projects _(learning/practice projects)_.
+- 🌏**Lv2_**: Advanced Front-end WebDev projects _(learning/practice projects)_.
+- 💻**Lv3_**: Fullstack WebDev projects _(learning/practice projects)_.
+- 🚀**Lv4_**: ________ __________ _(learning/practice projects)_.
+- 🤖**Lv5_**: __ ___ __ stuff _(learning/practice projects)_.
+- ✨**Lv6_**: Cool, creative, unique, and advanced projects _(Creative projects)_.
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
