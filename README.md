@@ -13,6 +13,12 @@
 - 🤝 **Open To:** Connect with great individuals.
 - 👯 **Looking For:** Opportunities to contribute to exciting projects.
 ---
+### Welcome to my repositories:
+- Here, you'll discover a diverse collection of my projects, ranging from basic to advanced levels.
+- Each repository showcases my skills, creativity, and growth in this developer journey.
+- Feel free to explore projects.
+- Happy exploring!
+---
 ### Categorization of repositories:
 - 🌐**Lv1_**: Basic Frontend WebDev projects _(learning/practice projects)_.
 - 🌏**Lv2_**: Advanced Front-end WebDev projects _(learning/practice projects)_.
