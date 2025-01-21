@@ -21,12 +21,11 @@
 ---
 ### Categorization of repositories:
 - 🌐**Lv1_**: Basic Frontend WebDev projects _(learning/practice projects)_.
-- 🖥️**Lv2_**: Basic Backend WebDev projects _(learning/practice projects)_.
-- 🌏**Lv3_**: Advanced Front-end WebDev projects _(learning/practice projects)_.
-- 💻**Lv4_**: Fullstack WebDev projects _(learning/practice projects)_.
-- 🚀**Lv5_**: ________ __________ _(learning/practice projects)_.
-- 🤖**Lv6_**: __ ___ __ stuff _(learning/practice projects)_.
-- ✨**Lv7_**: Cool, creative, unique, and advanced projects _(Creative projects)_.
+- 🖥️**Lv2_**: Basic Frontend+Backend WebDev projects _(learning/practice projects)_.
+- 💻**Lv3_**: Fullstack WebDev projects _(learning/practice projects)_.
+- 🚀**Lv4_**: ________ __________ _(learning/practice projects)_.
+- 🤖**Lv5_**: __ ___ __ stuff _(learning/practice projects)_.
+- ✨**Lv6_**: Cool, creative, unique, and advanced projects _(Creative projects)_.
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
