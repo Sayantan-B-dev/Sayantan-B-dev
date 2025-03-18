@@ -30,8 +30,8 @@
 
 ---
 ### More Categories:
-- ⚓**Ex1_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
-- ❄️**Ex2_**_(Stydy Material)_.
+- ⚓**Ex_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
+- ❄️**Sm_**_(Stydy Material)_.
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
