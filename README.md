@@ -21,6 +21,7 @@
 ---
 ### Categorization of repositories:
 - 🌐**Lv1_**: _(Basic Frontend projects)_.
+- ⚓**Lv1.5_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
 - 🖥️**Lv2_**: _(Basic Fullstack projects)_.
 - 💻**Lv3_**: _(Advanced Fullstack projects)_.
 - 🚀**Lv4_**: _(DSA)_.
