@@ -31,7 +31,7 @@
 ---
 ### More Categories:
 - ⚓**Ex_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
-- ❄️**SM_**_(Stydy Material)_.
+- ❄️**SM_**_(Stydy Material/Ecamples)_.
 ---
 <p align="left">
   <a href="https://twitter.com/sayantanb_1337" target="blank">
