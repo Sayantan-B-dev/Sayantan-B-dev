@@ -9,8 +9,8 @@
 
 ---
 ### About Me:
-- 🌱 **Currently Skills:** Web Development.  
-- 🤝 **Open To:** Connect with great individuals.
+- 🌱 **Current Skills:** MERN,React Native.  
+- 🤝 **Open To:** Work.
 - 👯 **Looking For:** Opportunities to contribute to exciting projects.
 ---
 ### Welcome to my repositories:
