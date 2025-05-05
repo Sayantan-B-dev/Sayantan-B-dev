@@ -9,15 +9,16 @@
 
 ---
 ### About Me:
-- 🌱 **Current Skills:** MERN,React Native.  
-- 🤝 **Open To:** Work.
-- 👯 **Looking For:** Opportunities to contribute to exciting projects.
+- 🌱 **Main Skills:** MERN,React Native,JS Vanila.
+- ⚓ **Extra Skills:** DBMS(MySQL,PostgreSQL),Java,Python,Good grip on OS and CN
+- 🤝 **Open To:** Work,Collaborate,Contribute,Team-up.
+- 👯 **Looking For:** Opportunities to meet great people and work in exciting projects.
 ---
 ### Welcome to my repositories:
-- Here, you'll discover a diverse collection of my projects, ranging from basic to advanced levels.
-- Each repository showcases my skills, creativity, and growth in this developer journey.
-- Feel free to explore projects.
-- Happy exploring!
+- Here, you'll find a collection of my projects/repositories, ranging from basic to advanced levels.
+- Each repository showcases my skills, creativity, and growth/learning process in this journey.
+- Feel free to explore.
+- 
 ---
 ### Categorization of repositories:
 - 🌐**Lv1_**: _(Basic Frontend projects)_.
