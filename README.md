@@ -9,8 +9,8 @@
 
 ---
 ### About Me:
-- 🌱 **Main Skills:** MERN,React Native,JS Vanila.
-- ⚓ **Extra Skills:** DBMS(MySQL,PostgreSQL),Java,Python,Good grip on OS and CN
+- 🌱 **Main Skills:** MongoDB,NodeJS,ExpressJS,React,React Native,JS Vanila.
+- ⚓ **Extra Skills:** MySQL,PostgreSQL,Java,Python
 - 🤝 **Open To:** Work,Collaborate,Contribute,Team-up.
 - 👯 **Looking For:** Opportunities to meet great people and work in exciting projects.
 ---
