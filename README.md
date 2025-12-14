@@ -18,7 +18,6 @@
 - Here, you'll find a collection of my projects/repositories, ranging from basic to advanced levels.
 - Each repository showcases my skills, creativity, and growth/learning process in this journey.
 - Feel free to explore.
-- 
 ---
 ### Categorization of repositories:
 - 🌐**Lv1_**: _(Basic Frontend projects)_.
