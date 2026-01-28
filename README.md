@@ -9,7 +9,7 @@
 
 ---
 ### About Me:
-- 🌱 **Main Skills:** MongoDB,NodeJS,ExpressJS,React,React Native,JS Vanila.
+- 🌱 **Main Skills:** MongoDB,NodeJS,ExpressJS,React,JS Vanila.
 - ⚓ **Extra Skills:** MySQL,PostgreSQL,Java,Python
 - 🤝 **Open To:** Work,Collaborate,Contribute,Team-up.
 - 👯 **Looking For:** Opportunities to meet great people and work in exciting projects.
