@@ -2,16 +2,45 @@
 <h3 align="center" style="font-family: 'Verdana', sans-serif; color: #555;">A Committed Developer Based in India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/sayantanb_1337" target="blank" >
-    <img src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge" alt="sayantanb_1337" />
-  </a>
+  <img 
+    src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
+    alt="GitHub Streak Stats"
+    width="700"
+  />
 </p>
+
+<br/>
+
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Sayantan-B-dev&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"
-    alt="GitHub Streak Stats"
-    width="600"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
+    width="49%"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
+    width="49%"
+  />
+</p>
+<br/>
+
+
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-B-dev&theme=github-compact&hide_border=false&color=FFFFFF&line=FFFFFF&point=FFFFFF"
+    width="95%"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://twitter.com/sayantanb_1337" target="_blank">
+    <img 
+      src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
+      alt="Twitter Follow"
+    />
+  </a>
 </p>
 
 ### About Me:
