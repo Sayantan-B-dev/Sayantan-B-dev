@@ -1,35 +1,36 @@
 # File: .github/workflows/snake.yml
-# This workflow generates a contribution snake animation daily
+# Generates contribution snake and commits directly to main branch
 
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # Runs daily at midnight UTC
-  workflow_dispatch:        # Allows manual execution
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual execution
+
+permissions:
+  contents: write        # Required to push changes
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository to allow committing files
+      # Checkout repository to allow file updates
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate snake animation
+      # Generate snake SVG file
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: Sayantan-B-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      # Step 3: Commit generated SVG back to repository
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v3
+      # Commit generated file back to main branch
+      - name: Commit and push snake animation
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update snake animation"
+          file_pattern: dist/github-contribution-grid-snake.svg
