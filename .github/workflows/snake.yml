@@ -1,36 +1,33 @@
 # File: .github/workflows/snake.yml
-# Generates contribution snake and commits directly to main branch
+# Professional dark snake configuration
 
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual execution
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write        # Required to push changes
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository to allow file updates
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate snake SVG file
-      - name: Generate snake animation
+      - name: Generate dark themed snake
         uses: Platane/snk@v3
         with:
           github_user_name: Sayantan-B-dev
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Commit generated file back to main branch
       - name: Commit and push snake animation
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update snake animation"
-          file_pattern: dist/github-contribution-grid-snake.svg
+          commit_message: "Update dark snake animation"
+          file_pattern: dist/github-contribution-grid-snake-dark.svg
