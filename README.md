@@ -1,14 +1,6 @@
 
 
 
-<div align="center">
-  <img 
-    src="./dist/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake"
-    width="100%"
-  />
-</div>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -31,6 +23,14 @@
 
   </tr>
 </table>
+
+<div align="center" >
+  <img 
+    src="./dist/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake"
+    width="90%"
+  />
+</div>
 
 
 <!-- <p align="center">
