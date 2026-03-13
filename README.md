@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
+        src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=java-dark&hide_border=false&border=FFFFFF"
         alt="GitHub Streak Stats"
         width="100%"
       />
