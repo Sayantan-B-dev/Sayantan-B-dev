@@ -64,14 +64,14 @@
 - 🖥️ **Lv2_**: _(Basic Fullstack projects)_.
 - 💻 **Lv3_**: _(Advanced Fullstack projects)_.
 - 🚀 **Lv4_**: _(DSA)_.
+- 
 
 
 ### More Categories:
 
 - ⚓ **Ex_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
-- ❄️ **SM_** _(Stydy Material/Examples)_.
-
-
+- ❄️ **SM_**: _(Study Material / Examples)_.
+- 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_.
 
 
 <table align="center" width="100%">
