@@ -24,12 +24,16 @@
   </tr>
 </table>
 
-<div align="center" >
-  <img 
-    src="./dist/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake"
-    width="90%"
-  />
+<div align="center">
+  <!-- <img src="./dist/github-contribution-grid-snake-dark.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-blue.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-dark.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-light.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-orange.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-purple.svg" width="90%" /><br/> -->
+  <img src="./dist/github-snake-transparent.svg" width="90%" /><br/>
+  <!-- <img src="./dist/github-snake.gif" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake.svg" width="90%" /> -->
 </div>
 
 
