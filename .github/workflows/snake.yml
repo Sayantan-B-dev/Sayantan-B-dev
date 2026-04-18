@@ -1,5 +1,5 @@
 # File: .github/workflows/snake.yml
-# Professional dark snake configuration
+# Full Snake Variants: dark, light, gif, no-background, colorful
 
 name: Generate Snake Animation
 
@@ -17,17 +17,24 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate dark themed snake
+      - name: Generate all snake variants
         uses: Platane/snk@v3
         with:
           github_user_name: Sayantan-B-dev
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+            dist/github-snake-transparent.svg?color_snake=#00ff99&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake-blue.svg?color_snake=#58a6ff&color_dots=#161b22,#0d1117,#1f6feb,#388bfd,#79c0ff
+            dist/github-snake-purple.svg?color_snake=#bc8cff&color_dots=#161b22,#2d033b,#6f42c1,#8b5cf6,#d2a8ff
+            dist/github-snake-orange.svg?color_snake=#ff9e64&color_dots=#161b22,#7c2d12,#ea580c,#fb923c,#fdba74
+            dist/github-snake.gif
 
-      - name: Commit and push snake animation
+      - name: Push generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update dark snake animation"
-          file_pattern: dist/github-contribution-grid-snake-dark.svg
+          commit_message: "Update all snake animations"
+          file_pattern: dist/*
