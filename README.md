@@ -1,7 +1,29 @@
+<div align="center">
+  <!-- <img src="./dist/github-contribution-grid-snake-dark.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-blue.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-dark.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-light.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-orange.svg" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake-purple.svg" width="90%" /><br/> -->
+  <img src="./dist/github-snake-transparent.svg" width="90%" /><br/>
+  <!-- <img src="./dist/github-snake.gif" width="90%" /><br/> -->
+  <!-- <img src="./dist/github-snake.svg" width="90%" /> -->
+</div>
 
 
 
-<table align="center" width="100%">
+  <div align="center" width="50%">
+    <h1>Hi 👋, I'm Sayantan Bharati</h1>
+    <h3>A Committed Developer Based in India</h3>
+    <a href="https://twitter.com/sayantanb_1337" target="_blank">
+      <img 
+        src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
+        alt="Twitter Follow"
+      />
+    </a>
+  </div>
+
+<!-- <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <h1>Hi 👋, I'm Sayantan Bharati</h1>
@@ -20,21 +42,9 @@
         width="100%"
       />
     </td>
-
   </tr>
-</table>
+</table> -->
 
-<div align="center">
-  <!-- <img src="./dist/github-contribution-grid-snake-dark.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-blue.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-dark.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-light.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-orange.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-purple.svg" width="90%" /><br/> -->
-  <img src="./dist/github-snake-transparent.svg" width="90%" /><br/>
-  <!-- <img src="./dist/github-snake.gif" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake.svg" width="90%" /> -->
-</div>
 
 
 <!-- <p align="center">
