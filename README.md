@@ -1,14 +1,14 @@
-<div align="center">
+<!-- <p align="center"> -->
   <!-- <img src="./dist/github-contribution-grid-snake-dark.svg" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake-blue.svg" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake-dark.svg" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake-light.svg" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake-orange.svg" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake-purple.svg" width="90%" /><br/> -->
-  <img src="./dist/github-snake-transparent.svg" width="90%" /><br/>
+  <img src="./dist/github-snake-transparent.svg" width="100%" /><br/>
   <!-- <img src="./dist/github-snake.gif" width="90%" /><br/> -->
   <!-- <img src="./dist/github-snake.svg" width="90%" /> -->
-</div>
+<!-- </p> -->
 
 
 
@@ -87,25 +87,23 @@
 - ❄️ **SM_**: _(Study Material / Examples)_.
 - 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_.
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
+    width="49%"
+  />
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-       <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
-        />
-    </td>
-    <td align="center" width="50%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
-        />
-    </td>
-  </tr>
-</table>
+
+
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-B-dev&theme=github-compact&hide_border=false&color=FFFFFF&line=FFFFFF&point=FFFFFF"
-    width="95%"
+    width="100%"
   />
 </p>
 
@@ -157,11 +155,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-      <img 
-        src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
-        alt="GitHub Streak Stats"
-        width="100%"
-      />
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
+  alt="GitHub Streak Stats"
+  width="100%"
+/>
 <p>
   <h3>
   Connect With Me:
