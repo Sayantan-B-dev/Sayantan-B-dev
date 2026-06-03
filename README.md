@@ -158,11 +158,11 @@
 
 <br/>
 
-<img 
+<!-- <img 
   src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
   alt="GitHub Streak Stats"
   width="100%"
-/>
+/> -->
 <p>
   <h3>
   Connect With Me:
