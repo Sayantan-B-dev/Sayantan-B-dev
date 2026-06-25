@@ -83,7 +83,7 @@
 
 ### More Categories:
 
-- ⚓ **Ex_**: _(Clg/Extra projects with the help of another project/repo/AI)_.
+- ⚓ **Ex_**: _(College/side projects, scripts, and automations built using external repos or AI tools)_.
 - ❄️ **SM_**: _(Study Material / Examples)_.
 - 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_.
 
