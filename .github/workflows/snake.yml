@@ -1,40 +1,59 @@
-# File: .github/workflows/snake.yml
-# Full Snake Variants: dark, light, gif, no-background, colorful
+# .github/workflows/snake.yml
 
 name: Generate Snake Animation
 
 on:
   schedule:
+    # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Prevent multiple runs from overlapping
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      # Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate all snake variants
+      # Generate snake variants
+      - name: Generate Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: Sayantan-B-dev
+
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
+
             dist/github-snake-transparent.svg?color_snake=#00ff99&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+
             dist/github-snake-blue.svg?color_snake=#58a6ff&color_dots=#161b22,#0d1117,#1f6feb,#388bfd,#79c0ff
+
             dist/github-snake-purple.svg?color_snake=#bc8cff&color_dots=#161b22,#2d033b,#6f42c1,#8b5cf6,#d2a8ff
+
             dist/github-snake-orange.svg?color_snake=#ff9e64&color_dots=#161b22,#7c2d12,#ea580c,#fb923c,#fdba74
+
+            # Optional GIF output
             dist/github-snake.gif
 
-      - name: Push generated files
+      # Commit and push only if files changed
+      - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update all snake animations"
+          commit_message: "chore: update snake animations"
           file_pattern: dist/*
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
