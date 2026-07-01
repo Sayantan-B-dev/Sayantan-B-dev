@@ -78,7 +78,6 @@
 - 🖥️ **Lv2_**: _(Basic Fullstack projects)_.
 - 💻 **Lv3_**: _(Advanced Fullstack projects)_.
 - 🚀 **Lv4_**: _(DSA)_.
-- 
 
 
 ### More Categories:
