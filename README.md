@@ -86,7 +86,7 @@
 - ❄️ **SM_**: _(Study Material / Examples)_.
 - 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_.
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
     width="49%"
@@ -95,7 +95,7 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
     width="49%"
   />
-</p>
+</p> -->
 
 
 
