@@ -226,7 +226,7 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sbdev10100111001" target="blank">
+  <a href="https://www.instagram.com/sayantan_b_dev/" target="blank">
     <img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
       alt="sbdev10100111001" 
