@@ -1,68 +1,26 @@
-<!-- <p align="center"> -->
-  <!-- <img src="./dist/github-contribution-grid-snake-dark.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-blue.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-dark.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-light.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-orange.svg" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake-purple.svg" width="90%" /><br/> -->
+<p align="center">
   <img src="./dist/github-snake-transparent.svg" width="100%" /><br/>
-  <!-- <img src="./dist/github-snake.gif" width="90%" /><br/> -->
-  <!-- <img src="./dist/github-snake.svg" width="90%" /> -->
-<!-- </p> -->
+</p>
 
 
-
-  <div align="center" width="50%">
-    <h1>Hi 👋, I'm Sayantan Bharati</h1>
-    <h3>A Committed Developer Based in India</h3>
-    <a href="https://twitter.com/sayantanb_1337" target="_blank">
-      <img 
-        src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
-        alt="Twitter Follow"
-      />
-    </a>
-  </div>
-
-<!-- <table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h1>Hi 👋, I'm Sayantan Bharati</h1>
-      <h3>A Committed Developer Based in India</h3>
-      <a href="https://twitter.com/sayantanb_1337" target="_blank">
-        <img 
-          src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
-          alt="Twitter Follow"
-        />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img 
-        src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
-        alt="GitHub Streak Stats"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table> -->
+<img width="100%" src="https://www.gitskins.com/api/section/hero?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev hero section" />
 
 
-
-<!-- <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p> -->
-
-
-
-
+<p align="center">
+  <a href="https://twitter.com/sayantanb_1337" target="_blank">
+    <img
+      src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
+      alt="Twitter Follow"
+    />
+  </a>
+</p>
 
 ### About Me:
 
-- 🌱 **Main Skills:** MongoDB,NodeJS,ExpressJS,React,JS Vanila.
-- ⚓ **Extra Skills:** MySQL,PostgreSQL,Java,Python
-- 🤝 **Open To:** Work,Collaborate,Contribute,Team-up.
-- 👯 **Looking For:** Opportunities to meet great people and work in exciting projects.
-
-
+- 🌱 **Main Skills:** MongoDB, NodeJS, ExpressJS, React, JS Vanilla.
+- ⚓ **Extra Skills:** MySQL, PostgreSQL, Java, Python
+- 🤝 **Open To:** Work, Collaborate, Contribute, Team-up.
+- 👯 **Looking For:** Opportunities to meet great people and work on exciting projects.
 
 ### Welcome to my repositories:
 
@@ -72,39 +30,33 @@
 
 
 
+<img width="100%" src="https://www.gitskins.com/api/section/projects?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev projects section" />
+
+
+
 ### Categorization of repositories:
 
-- 🌐 **Lv1_**: _(Basic Frontend projects)_.
-- 🖥️ **Lv2_**: _(Basic Fullstack projects)_.
-- 💻 **Lv3_**: _(Advanced Fullstack projects)_.
-- 🚀 **Lv4_**: _(DSA)_.
-
+- 🌐 **Lv1_**: _(Basic Frontend projects)_
+- 🖥️ **Lv2_**: _(Basic Fullstack projects)_
+- 💻 **Lv3_**: _(Advanced Fullstack projects)_
+- 🚀 **Lv4_**: _(DSA)_
 
 ### More Categories:
 
-- ⚓ **Ex_**: _(College/side projects, scripts, and automations built using external repos or AI tools)_.
-- ❄️ **SM_**: _(Study Material / Examples)_.
-- 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_.
-
-<!-- <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=github_dark&border_color=FFFFFF&show_percentage=true"
-    width="49%"
-  />
-</p> -->
-
-
+- ⚓ **Ex_**: _(College/side projects, scripts, and automations built using external repos or AI tools)_
+- ❄️ **SM_**: _(Study Material / Examples)_
+- 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-B-dev&theme=github-compact&hide_border=false&color=FFFFFF&line=FFFFFF&point=FFFFFF"
     width="100%"
   />
 </p>
+
+
+
+
 
 ## Frontend
 
@@ -190,48 +142,9 @@
 
 <br/>
 
-<!-- <img 
-  src="https://streak-stats.demolab.com?user=Sayantan-B-dev&theme=dark&hide_border=false&border=FFFFFF"
-  alt="GitHub Streak Stats"
-  width="100%"
-/> -->
-<p>
-  <h3>
-  Connect With Me:
-  </h3>
-  <a href="https://twitter.com/sayantanb_1337" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="sayantanb_1337" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sayantan-bharati" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="sayantan bharati" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/28548093" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" 
-      alt="28548093" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sayantan_b_dev/" target="blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="sbdev10100111001" 
-      height="30" 
-      width="40" 
-    />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sayantan-b-dev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev social section" />
+  </picture>
 </p>
