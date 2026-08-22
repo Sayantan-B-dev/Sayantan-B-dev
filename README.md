@@ -30,7 +30,7 @@
 
 
 
-<img width="100%" src="https://www.gitskins.com/api/section/projects?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev projects section" />
+<!-- <img width="100%" src="https://www.gitskins.com/api/section/projects?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev projects section" /> -->
 
 
 
