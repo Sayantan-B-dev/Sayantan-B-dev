@@ -1,150 +1,381 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sayantan%20Bharati&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%7C%20System%20Design&descAlignY=58&descSize=18" width="100%" />
+
+<a href="https://github.com/Sayantan-B-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+%26+Shipping+Web+Applications;APIs+%7C+Databases+%7C+Authentication;Idea+%E2%86%92+Database+%E2%86%92+API+%E2%86%92+Deploy;Music+Producer+turned+Developer" alt="Typing animation" />
+</a>
+
+<br/><br/>
+
+<a href="https://sayantanbharati.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sayantanbharati"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sayantanbharati611@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sayantan-B-dev&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" />
+
+</div>
+
+<!-- 
 <p align="center">
-  <img src="./dist/github-snake.svg" width="100%" /><br/>
-</p>
+  <img src="./dist/github-snake.svg" width="100%" alt="GitHub contribution snake" />
+</p> 
+-->
 
+---
 
-<img width="100%" src="https://www.gitskins.com/api/section/hero?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev hero section" />
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/bolt.svg?color=%2300f5d4" width="26" align="absmiddle" /> About Me
+</h2>
 
+<div align="center">
+<table>
+<tr>
+<td colspan="3"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+<img src="https://api.iconify.design/material-symbols/build.svg?color=%2300f5d4" width="34" /><br/>
+<b>Build</b><br/><br/>
+Web Applications<br/>
+REST APIs<br/>
+Admin Systems<br/>
+Developer Tools
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<img src="https://api.iconify.design/material-symbols/handyman.svg?color=%2300f5d4" width="34" /><br/>
+<b>Work With</b><br/><br/>
+React · Next.js<br/>
+Node.js · Express<br/>
+PostgreSQL · MongoDB<br/>
+Redis · REST
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<img src="https://api.iconify.design/material-symbols/explore.svg?color=%2300f5d4" width="34" /><br/>
+<b>Interested In</b><br/><br/>
+Backend Architecture<br/>
+Performance<br/>
+Authentication<br/>
+System Design
+
+</td>
+</tr>
+</table>
+</div>
 
 <p align="center">
-  <a href="https://twitter.com/sayantanb_1337" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/sayantanb_1337?logo=twitter&style=for-the-badge&color=FFFFFF"
-      alt="Twitter Follow"
-    />
-  </a>
+I enjoy taking an idea from <b>database and API design to a working interface and deployment</b>,<br/>
+while keeping the underlying systems understandable and maintainable.
 </p>
 
-### About Me:
+---
 
-- 🌱 **Main Skills:** MongoDB, NodeJS, ExpressJS, React, JS Vanilla.
-- ⚓ **Extra Skills:** MySQL, PostgreSQL, Java, Python
-- 🤝 **Open To:** Work, Collaborate, Contribute, Team-up.
-- 👯 **Looking For:** Opportunities to meet great people and work on exciting projects.
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/target.svg?color=%2300f5d4" width="26" align="absmiddle" /> Currently
+</h2>
 
-### Welcome to my repositories:
+<div align="center">
+<table>
+<tr>
+<td colspan="4"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%">
+  <img src="https://api.iconify.design/material-symbols/construction.svg?color=%2300f5d4" width="34" /><br/>
+  <b>Building</b><br/>Full Stack Apps
+</td>
+<td align="center" valign="top" width="25%">
+  <img src="https://api.iconify.design/material-symbols/search.svg?color=%2300f5d4" width="34" /><br/>
+  <b>Exploring</b><br/>Backend Systems
+</td>
+<td align="center" valign="top" width="25%">
+  <img src="https://api.iconify.design/material-symbols/school.svg?color=%2300f5d4" width="34" /><br/>
+  <b>Learning</b><br/>System Design
+</td>
+<td align="center" valign="top" width="25%">
+  <img src="https://api.iconify.design/material-symbols/speed.svg?color=%2300f5d4" width="34" /><br/>
+  <b>Improving</b><br/>Performance
+</td>
+</tr>
+</table>
+</div>
 
-- Here, you'll find a collection of my projects/repositories, ranging from basic to advanced levels.
-- Each repository showcases my skills, creativity, and growth/learning process in this journey.
-- Feel free to explore.
+---
 
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/code-blocks.svg?color=%2300f5d4" width="26" align="absmiddle" /> Tech Stack
+</h2>
 
+<div align="center">
+<table>
+<tr>
+<td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
+</tr>
+<tr>
+<th align="center" width="25%">Category</th>
+<th align="center" width="75%">Technologies</th>
+</tr>
 
-<!-- <img width="100%" src="https://www.gitskins.com/api/section/projects?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev projects section" /> -->
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/terminal.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Languages</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" alt="Languages" />
+</td>
+</tr>
 
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/web.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Frontend</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3&perline=5" alt="Frontend" /><br/>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</td>
+</tr>
 
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/dns.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Backend & Auth</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend" /><br/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+</td>
+</tr>
 
-### Categorization of repositories:
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/database.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Databases & Caching</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" alt="Databases" />
+</td>
+</tr>
 
-- 🌐 **Lv1_**: _(Basic Frontend projects)_
-- 🖥️ **Lv2_**: _(Basic Fullstack projects)_
-- 💻 **Lv3_**: _(Advanced Fullstack projects)_
-- 🚀 **Lv4_**: _(DSA)_
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/cloud.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Cloud & Services</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker&perline=3" alt="Cloud" /><br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit-06BEF8?style=flat-square&logo=imagekit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+</td>
+</tr>
 
-### More Categories:
+<tr>
+<td align="center">
+  <img src="https://api.iconify.design/material-symbols/construction.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Tools</b>
+</td>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux&perline=5" alt="Tools" />
+</td>
+</tr>
 
-- ⚓ **Ex_**: _(College/side projects, scripts, and automations built using external repos or AI tools)_
-- ❄️ **SM_**: _(Study Material / Examples)_
-- 🔒 **PV_**: _(Private projects, sensitive work, or non-public content)_
+</table>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/rocket-launch.svg?color=%2300f5d4" width="26" align="absmiddle" /> Selected Projects
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td colspan="3"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
+</tr>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">LnkZoo</h3>
+<b>Community Link Discovery</b><br/><br/>
+<code>Next.js</code> <code>PostgreSQL</code> <code>D3.js</code> <code>OpenRouter</code><br/><br/>
+A social platform for discovering, sharing, discussing and ranking links.<br/><br/>
+40+ REST API routes<br/>
+10-level nested comments<br/>
+Feed ranking & leaderboards<br/>
+Follow / block, admin analytics<br/>
+Canvas physics engine (5–300 particles @ 60 FPS)<br/>
+5-thread bulk processing<br/>
+JWT + Google OAuth, CSRF, rate limiting<br/><br/>
+<a href="https://github.com/Sayantan-B-dev/Lv3_LnkZoo">Repo</a> · <a href="https://lnkzoo.vercel.app">Live</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">BlueEye</h3>
+<b>Artist Discovery & Booking</b><br/><br/>
+<code>Next.js</code> <code>MongoDB</code> <code>Redis</code> <code>NextAuth</code><br/><br/>
+A platform for discovering artists, managing events and handling bookings.<br/><br/>
+Artist & event management<br/>
+Ticketing, reviews, inquiries<br/>
+Redis-cached reviews<br/>
+Razorpay payments<br/>
+JSON-LD SEO, dynamic OG images, ISR<br/>
+Automated sitemap, CSV imports<br/>
+OTP-protected operations<br/><br/>
+<a href="https://github.com/Sayantan-B-dev/Lv3_BlueEye">Repo</a> · <a href="https://blueeyeentertainment.in">Live</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3 align="center">Re-Docs</h3>
+<b>Note Management</b><br/><br/>
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code><br/><br/>
+A Markdown-based platform for creating, organizing and exporting notes.<br/><br/>
+Markdown + KaTeX<br/>
+Public / private notes<br/>
+Categories + tags<br/>
+Document export<br/>
+Synchronized editing<br/>
+Passport.js, Google OAuth, sessions<br/>
+Cloudinary file / image uploads<br/><br/>
+<a href="https://github.com/Sayantan-B-dev/Lv3_Re-Docs">Repo</a> · <a href="https://re-docs-pi.vercel.app">Live</a>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/account-tree.svg?color=%2300f5d4" width="26" align="absmiddle" /> Repository Structure
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td colspan="3"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
+</tr>
+<tr>
+<th align="center" width="20%">Prefix</th>
+<th align="center" width="25%">Category</th>
+<th align="center" width="55%">Purpose</th>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/web.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv1_</code></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center">Basic frontend projects</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/layers.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv2_</code></td>
+<td align="center"><b>Full Stack</b></td>
+<td align="center">Basic full-stack projects</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/deployed-code.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv3_</code></td>
+<td align="center"><b>Advanced</b></td>
+<td align="center">Advanced full-stack applications</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/schema.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv4_</code></td>
+<td align="center"><b>DSA</b></td>
+<td align="center">Data structures & algorithms</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/science.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Ex_</code></td>
+<td align="center"><b>Experiments</b></td>
+<td align="center">Scripts, automations & side projects</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/menu-book.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>SM_</code></td>
+<td align="center"><b>Study Material</b></td>
+<td align="center">Notes, examples & references</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/material-symbols/lock.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>PV_</code></td>
+<td align="center"><b>Private</b></td>
+<td align="center">Private or sensitive projects</td>
+</tr>
+</table>
+</div>
+
+<p align="center"><sub>The prefix is part of the project name, so you can understand a repository's purpose and complexity before opening it.</sub></p>
+
+---
+
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/sync.svg?color=%2300f5d4" width="26" align="absmiddle" /> Development Flow
+</h2>
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Design]
+    B --> C[Database]
+    C --> D[API]
+    D --> E[Application]
+    E --> F[Test]
+    F --> G[Deploy]
+    G --> H[Iterate]
+    H --> A
+```
+
+---
+
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/monitoring.svg?color=%2300f5d4" width="26" align="absmiddle" /> GitHub Stats
+</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sayantan-B-dev&theme=github-compact&hide_border=false&color=FFFFFF&line=FFFFFF&point=FFFFFF"
-    width="100%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayantan-B-dev&theme=tokyonight" width="49%" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayantan-B-dev&theme=tokyonight" width="49%" alt="Repos per language" />
 </p>
 
-
-
-
-
-## Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayantan-B-dev&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayantan-B-dev&theme=tokyonight" width="49%" alt="Most commit language" />
 </p>
 
-## Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sayantan-B-dev&theme=tokyonight&hide_border=true&mode=weekly&stroke=00f5d4&ring=00f5d4&fire=00f5d4" width="100%" alt="Streak stats" />
 </p>
 
-## Databases & Caching
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/006b3c/Sayantan-B-dev" width="100%" alt="Contribution chart" />
 </p>
 
-## Python & Data
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<h2 align="center">
+  <img src="https://api.iconify.design/material-symbols/headphones.svg?color=%2300f5d4" width="26" align="absmiddle" /> A Little Extra
+</h2>
 
-## Cloud, Deployment & Services
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/ImageKit-06BEF8?style=for-the-badge&logo=imagekit&logoColor=white" alt="ImageKit" />
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
-</p>
-
-## Tools & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-## Expanding Skill Set
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<p align="center">
+  <b>Music Producer & Sound Engineer</b> · 2021 → 2025<br/><br/>
+  <code>900+ projects</code> <code>Client work</code> <code>Production</code> <code>Mixing</code> <code>Revisions</code> <code>Delivery</code>
 </p>
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sayantan-b-dev&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=sayantan-b-dev&theme=github-dark" alt="sayantan-b-dev social section" />
-  </picture>
-</p>
+<div align="center">
+
+**Build  •  Learn  •  Ship**
+
+<a href="https://sayantanbharati.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
