@@ -105,7 +105,6 @@ while keeping the underlying systems understandable and maintainable.
 </div>
 
 ---
-
 <h2 align="center">
   <img src="https://api.iconify.design/material-symbols/code-blocks.svg?color=%2300f5d4" width="26" align="absmiddle" /> Tech Stack
 </h2>
@@ -116,24 +115,24 @@ while keeping the underlying systems understandable and maintainable.
 <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=transparent&height=1" width="3000" height="1" alt="" /></td>
 </tr>
 <tr>
-<th align="center" width="25%">Category</th>
-<th align="center" width="75%">Technologies</th>
+<th align="left" width="25%">Category</th>
+<th align="left" width="75%">Technologies</th>
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/terminal.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Languages</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" alt="Languages" />
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/web.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Frontend</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,d3&perline=5" alt="Frontend" /><br/>
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
@@ -141,10 +140,10 @@ while keeping the underlying systems understandable and maintainable.
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/dns.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Backend & Auth</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" alt="Backend" /><br/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -155,19 +154,19 @@ while keeping the underlying systems understandable and maintainable.
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/database.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Databases & Caching</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4" alt="Databases" />
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/cloud.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Cloud & Services</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,docker&perline=3" alt="Cloud" /><br/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
@@ -178,19 +177,17 @@ while keeping the underlying systems understandable and maintainable.
 </tr>
 
 <tr>
-<td align="center">
+<td align="left">
   <img src="https://api.iconify.design/material-symbols/construction.svg?color=%2300f5d4" width="18" align="absmiddle" /> <b>Tools</b>
 </td>
-<td align="center">
+<td align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux&perline=5" alt="Tools" />
 </td>
 </tr>
 
 </table>
 </div>
-
 ---
-
 <h2 align="center">
   <img src="https://api.iconify.design/material-symbols/rocket-launch.svg?color=%2300f5d4" width="26" align="absmiddle" /> Selected Projects
 </h2>
@@ -202,12 +199,14 @@ while keeping the underlying systems understandable and maintainable.
 </tr>
 <tr>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="left">
 
-<h3 align="center">LnkZoo</h3>
+<h3 align="left">LnkZoo</h3>
 <b>Community Link Discovery</b><br/><br/>
 <code>Next.js</code> <code>PostgreSQL</code> <code>D3.js</code> <code>OpenRouter</code><br/><br/>
+
 A social platform for discovering, sharing, discussing and ranking links.<br/><br/>
+
 40+ REST API routes<br/>
 10-level nested comments<br/>
 Feed ranking & leaderboards<br/>
@@ -215,16 +214,19 @@ Follow / block, admin analytics<br/>
 Canvas physics engine (5–300 particles @ 60 FPS)<br/>
 5-thread bulk processing<br/>
 JWT + Google OAuth, CSRF, rate limiting<br/><br/>
+
 <a href="https://github.com/Sayantan-B-dev/Lv3_LnkZoo">Repo</a> · <a href="https://lnkzoo.vercel.app">Live</a>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="left">
 
-<h3 align="center">BlueEye</h3>
+<h3 align="left">BlueEye</h3>
 <b>Artist Discovery & Booking</b><br/><br/>
 <code>Next.js</code> <code>MongoDB</code> <code>Redis</code> <code>NextAuth</code><br/><br/>
+
 A platform for discovering artists, managing events and handling bookings.<br/><br/>
+
 Artist & event management<br/>
 Ticketing, reviews, inquiries<br/>
 Redis-cached reviews<br/>
@@ -232,16 +234,19 @@ Razorpay payments<br/>
 JSON-LD SEO, dynamic OG images, ISR<br/>
 Automated sitemap, CSV imports<br/>
 OTP-protected operations<br/><br/>
+
 <a href="https://github.com/Sayantan-B-dev/Lv3_BlueEye">Repo</a> · <a href="https://blueeyeentertainment.in">Live</a>
 
 </td>
 
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" align="left">
 
-<h3 align="center">Re-Docs</h3>
+<h3 align="left">Re-Docs</h3>
 <b>Note Management</b><br/><br/>
 <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code><br/><br/>
+
 A Markdown-based platform for creating, organizing and exporting notes.<br/><br/>
+
 Markdown + KaTeX<br/>
 Public / private notes<br/>
 Categories + tags<br/>
@@ -249,6 +254,7 @@ Document export<br/>
 Synchronized editing<br/>
 Passport.js, Google OAuth, sessions<br/>
 Cloudinary file / image uploads<br/><br/>
+
 <a href="https://github.com/Sayantan-B-dev/Lv3_Re-Docs">Repo</a> · <a href="https://re-docs-pi.vercel.app">Live</a>
 
 </td>
@@ -256,7 +262,6 @@ Cloudinary file / image uploads<br/><br/>
 </tr>
 </table>
 </div>
-
 ---
 
 <h2 align="center">
@@ -274,39 +279,39 @@ Cloudinary file / image uploads<br/><br/>
 <th align="center" width="55%">Purpose</th>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/web.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv1_</code></td>
-<td align="center"><b>Frontend</b></td>
-<td align="center">Basic frontend projects</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/web.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv1_</code></td>
+<td align="left"><b>Frontend</b></td>
+<td align="left">Basic frontend projects</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/layers.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv2_</code></td>
-<td align="center"><b>Full Stack</b></td>
-<td align="center">Basic full-stack projects</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/layers.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv2_</code></td>
+<td align="left"><b>Full Stack</b></td>
+<td align="left">Basic full-stack projects</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/deployed-code.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv3_</code></td>
-<td align="center"><b>Advanced</b></td>
-<td align="center">Advanced full-stack applications</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/deployed-code.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv3_</code></td>
+<td align="left"><b>Advanced</b></td>
+<td align="left">Advanced full-stack applications</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/schema.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv4_</code></td>
-<td align="center"><b>DSA</b></td>
-<td align="center">Data structures & algorithms</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/schema.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Lv4_</code></td>
+<td align="left"><b>DSA</b></td>
+<td align="left">Data structures & algorithms</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/science.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Ex_</code></td>
-<td align="center"><b>Experiments</b></td>
-<td align="center">Scripts, automations & side projects</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/science.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>Ex_</code></td>
+<td align="left"><b>Experiments</b></td>
+<td align="left">Scripts, automations & side projects</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/menu-book.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>SM_</code></td>
-<td align="center"><b>Study Material</b></td>
-<td align="center">Notes, examples & references</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/menu-book.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>SM_</code></td>
+<td align="left"><b>Study Material</b></td>
+<td align="left">Notes, examples & references</td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/material-symbols/lock.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>PV_</code></td>
-<td align="center"><b>Private</b></td>
-<td align="center">Private or sensitive projects</td>
+<td align="left"><img src="https://api.iconify.design/material-symbols/lock.svg?color=%2300f5d4" width="18" align="absmiddle" /> <code>PV_</code></td>
+<td align="left"><b>Private</b></td>
+<td align="left">Private or sensitive projects</td>
 </tr>
 </table>
 </div>
